@@ -1,0 +1,67 @@
+body{
+
+	background-image: url(https://i.pinimg.com/736x/fd/4c/be/fd4cbe9611c35a7cd0ccaeb764795c98--christmas-candy-christmas-wrapping.jpg);
+}
+header{
+	border: 4px solid green;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+	height: 100px;
+	width: 40%;
+	background: #f4f3f599;
+	
+}
+.underscore{
+	border: 4px solid red;
+	font-size: 100px;
+	letter-spacing: 10px;
+	text-align: center;
+	margin: 0 auto;
+	height: fit-content; 
+	width: 80%;
+	background: #f4f3f599;
+
+}
+
+.remainingGuess {
+	border: 4px solid red;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+	height: 50px;
+	width: 40%;
+	background: #f4f3f599;
+}
+.Wins {
+	font-size: 50px;
+	font-animation:flash;
+	text-align: center;
+	margin: 0 auto;
+	height: 50px;
+	width: 40%;
+	
+}
+.keepingTrack{
+	border: 4px solid red;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+	height: 50px;
+	width: 40%;
+	background: #f4f3f599;
+	
+}
+footer{
+	align-content: center;
+	text-align: center;
+	font-size: 30px;
+	margin:0 auto;
+	width: 10%;
+	background: #4CAF50E3
+}
+
+p {
+	text-align: center;
+	text-decoration: bold;
+}
